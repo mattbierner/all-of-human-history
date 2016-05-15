@@ -21,13 +21,7 @@
         "start": {
             "year": 2000
         },
-        "event": "George W"
-    },
-    {
-        "start": {
-            "year": 2000
-        },
-        "event": "Bush is elected President of the United States"
+        "event": "George W. Bush is elected President of the United States"
     },
     {
         "start": {
@@ -531,7 +525,7 @@
         "start": {
             "year": 2010
         },
-        "event": "0 magnitude earthquake in Haiti kills 230,000"
+        "event": "7.0 magnitude earthquake in Haiti kills 230,000"
     },
     {
         "start": {
@@ -585,19 +579,13 @@
         "start": {
             "year": 2010
         },
-        "event": "10 April the President of Poland, Lech Kaczyński, is among 96 killed when their airplane crashes in Smolensk"
+        "event": "The President of Poland, Lech Kaczyński, is among 96 killed when their airplane crashes in Smolensk"
     },
     {
         "start": {
             "year": 2010
         },
-        "event": "The Burj Khalifa located in Dubai opened to the public and stood as the tallest structure in the world, standing at 829"
-    },
-    {
-        "start": {
-            "year": 2010
-        },
-        "event": "8 m (2,722 ft)"
+        "event": "The Burj Khalifa located in Dubai opened to the public and stood as the tallest structure in the world, standing at 829.8 m (2,722 ft)"
     },
     {
         "start": {
@@ -633,7 +621,7 @@
         "start": {
             "year": 2011
         },
-        "event": "0 earthquake in Japan triggers a tsunami and the meltdown of the Fukushima Nuclear Power Plant"
+        "event": "9.0 earthquake in Japan triggers a tsunami and the meltdown of the Fukushima Nuclear Power Plant"
     },
     {
         "start": {

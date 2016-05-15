@@ -2793,25 +2793,13 @@
         "start": {
             "year": 1963
         },
-        "event": "Martin Luther King, Jr"
+        "event": "Martin Luther King, Jr. delivers \"I Have a Dream\" at the March on Washington"
     },
     {
         "start": {
             "year": 1963
         },
-        "event": "delivers \"I Have a Dream\" at the March on Washington"
-    },
-    {
-        "start": {
-            "year": 1963
-        },
-        "event": "Assassination of John F"
-    },
-    {
-        "start": {
-            "year": 1963
-        },
-        "event": "Kennedy"
+        "event": "Assassination of John F. Kennedy"
     },
     {
         "start": {
@@ -2949,13 +2937,7 @@
         "start": {
             "year": 1967
         },
-        "event": "The Beatles release their landmark album Sgt"
-    },
-    {
-        "start": {
-            "year": 1967
-        },
-        "event": "Pepper's Lonely Hearts Club Band"
+        "event": "The Beatles release their landmark album Sgt. Pepper's Lonely Hearts Club Band"
     },
     {
         "start": {
@@ -2967,19 +2949,7 @@
         "start": {
             "year": 1968
         },
-        "event": "Assassinations of Martin Luther King, Jr"
-    },
-    {
-        "start": {
-            "year": 1968
-        },
-        "event": "and Robert F"
-    },
-    {
-        "start": {
-            "year": 1968
-        },
-        "event": "Kennedy during the Poor People's Campaign"
+        "event": "Assassinations of Martin Luther King, Jr. and Robert F. Kennedy during the Poor People's Campaign"
     },
     {
         "start": {
@@ -3045,13 +3015,7 @@
         "start": {
             "year": 1969
         },
-        "event": "Death of Dwight D"
-    },
-    {
-        "start": {
-            "year": 1969
-        },
-        "event": "Eisenhower"
+        "event": "Death of Dwight D. Eisenhower"
     },
     {
         "start": {
@@ -3225,13 +3189,7 @@
         "start": {
             "year": 1972
         },
-        "event": "Martial law declared in the Philippines by President Ferdinand E"
-    },
-    {
-        "start": {
-            "year": 1972
-        },
-        "event": "Marcos"
+        "event": "Martial law declared in the Philippines by President Ferdinand E. Marcos"
     },
     {
         "start": {
@@ -3609,13 +3567,7 @@
         "start": {
             "year": 1980
         },
-        "event": "1980 eruption of Mount St"
-    },
-    {
-        "start": {
-            "year": 1980
-        },
-        "event": "Helens"
+        "event": "Eruption of Mount St. Helens"
     },
     {
         "start": {
@@ -3687,13 +3639,7 @@
         "start": {
             "year": 1981
         },
-        "event": "Iran releases the 52 U"
-    },
-    {
-        "start": {
-            "year": 1981
-        },
-        "event": "hostages held in Tehran after 444 days"
+        "event": "Iran releases the 52 US hostages held in Tehran after 444 days"
     },
     {
         "start": {
@@ -3777,13 +3723,7 @@
         "start": {
             "year": 1983
         },
-        "event": "Bombing of U"
-    },
-    {
-        "start": {
-            "year": 1983
-        },
-        "event": "Embassy in Beirut"
+        "event": "Bombing of US Embassy in Beirut"
     },
     {
         "start": {
