@@ -47,6 +47,6 @@ Events are structured:
 ```
 
 ## Source
-All of the data in this dataset was initially scrapped from Wikipedia from pages like this: https://en.wikipedia.org/wiki/Timeline_of_modern_history
+All of the data in this dataset was initially scraped from Wikipedia from pages like this: https://en.wikipedia.org/wiki/Timeline_of_modern_history
 
 See `./data` for individual datasets that were collected.

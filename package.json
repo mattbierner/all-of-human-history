@@ -1,6 +1,6 @@
 {
     "name": "all-of-human-history",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Major events from the last 5000 years of human history, from the late bronze age to 2015.",
     "main": "index.js",
     "files": [
