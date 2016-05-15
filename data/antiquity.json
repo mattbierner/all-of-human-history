@@ -1,0 +1,764 @@
+[
+    {
+        "start": {
+            "year": -776
+        },
+        "event": "First recorded Olympic Games"
+    },
+    {
+        "start": {
+            "year": -753
+        },
+        "event": "Founding of Rome "
+    },
+    {
+        "start": {
+            "year": -745
+        },
+        "event": "Tiglath-Pileser III becomes the new king of Assyria. With time he conquers neighboring countries and turns Assyria into an empire"
+    },
+    {
+        "start": {
+            "year": -728
+        },
+        "event": "Rise of the Median Empire"
+    },
+    {
+        "start": {
+            "year": -722
+        },
+        "event": "Spring and Autumn Period begins in China; Zhou Dynasty's power is diminishing; the era of the Hundred Schools of Thought"
+    },
+    {
+        "start": {
+            "year": -700
+        },
+        "event": "the construction of Marib Dam in Arabia Felix"
+    },
+    {
+        "start": {
+            "year": -660
+        },
+        "event": "purported date of the accession of Jimmu, the mythical first Emperor of Japan"
+    },
+    {
+        "start": {
+            "year": -653
+        },
+        "event": "Rise of Persian Empire"
+    },
+    {
+        "start": {
+            "year": -612
+        },
+        "event": "An alliance between the Babylonians, Medes, and Scythians succeeds in destroying Nineveh and causing subsequent fall of the Assyrian empire"
+    },
+    {
+        "start": {
+            "year": -600
+        },
+        "event": "Sixteen Maha Janapadas ('GreatRealms' or 'GreatKingdoms') emerge in India"
+    },
+    {
+        "start": {
+            "year": -600
+        },
+        "event": "Evidence of writing system appear in Oaxaca used by the Zapotec civilization"
+    },
+    {
+        "start": {
+            "year": -600
+        },
+        "event": "Pandyan kingdom in South India"
+    },
+    {
+        "start": {
+            "year": -586
+        },
+        "event": "Destruction of the First Temple in Jerusalem (Solomon's Temple) by the Babylonians"
+    },
+    {
+        "start": {
+            "year": -563
+        },
+        "event": "Siddhartha Gautama (Buddha), founder of Buddhism is born as a prince of the Shakya tribe, which ruled parts of Magadha, one of the Maha Janapadas"
+    },
+    {
+        "start": {
+            "year": -551
+        },
+        "event": "Confucius, founder of Confucianism, is born"
+    },
+    {
+        "start": {
+            "year": -550
+        },
+        "event": "Foundation of the Persian Empire by Cyrus the Great"
+    },
+    {
+        "start": {
+            "year": -549
+        },
+        "event": "Mahavira, founder of Jainism is born"
+    },
+    {
+        "start": {
+            "year": -546
+        },
+        "event": "Cyrus the Great overthrows Croesus King of Lydia"
+    },
+    {
+        "start": {
+            "year": -544
+        },
+        "event": "Rise of Magadha as the dominant power under Bimbisara"
+    },
+    {
+        "start": {
+            "year": -539
+        },
+        "event": "The Fall of the Babylonian Empire and liberation of the Jews by Cyrus the Great"
+    },
+    {
+        "start": {
+            "year": -529
+        },
+        "event": "Death of Cyrus"
+    },
+    {
+        "start": {
+            "year": -525
+        },
+        "event": "Cambyses II of Persia conquers Egypt"
+    },
+    {
+        "start": {
+            "year": -512
+        },
+        "event": "Darius I (Darius the Great) of Persia, subjugates eastern Thrace, Macedonia submits voluntarily, and annexes Libya, Persian Empire at largest extent"
+    },
+    {
+        "start": {
+            "year": -509
+        },
+        "event": "Expulsion of the last King of Rome, founding of Roman Republic (traditional date)"
+    },
+    {
+        "start": {
+            "year": -508
+        },
+        "event": "Democracy instituted at Athens"
+    },
+    {
+        "start": {
+            "year": -500
+        },
+        "event": "completion of Euclid's Elements"
+    },
+    {
+        "start": {
+            "year": -500
+        },
+        "event": "Panini standardizes the grammar and morphology of Sanskrit in the text Ashtadhyayi. Panini's standardized Sanskrit is known as Classical Sanskrit"
+    },
+    {
+        "start": {
+            "year": -500
+        },
+        "event": "Pingala uses zero and binary numeral system"
+    },
+    {
+        "start": {
+            "year": -499
+        },
+        "event": "King Aristagoras of Miletus incites all of Hellenic Asia Minor to rebel against the Persian Empire, beginning the Greco-Persian Wars"
+    },
+    {
+        "start": {
+            "year": -490
+        },
+        "event": "Greek city-states defeat Persian invasion at Battle of Marathon"
+    },
+    {
+        "start": {
+            "year": -483
+        },
+        "event": "Death of Gautama Buddha"
+    },
+    {
+        "start": {
+            "year": -480
+        },
+        "event": "Persian invasion of Greece by Xerxes; Battles of Thermopylae and Salamis"
+    },
+    {
+        "start": {
+            "year": -479
+        },
+        "event": "Death of Confucius"
+    },
+    {
+        "start": {
+            "year": -475
+        },
+        "event": "Warring States period begins in China as the Zhou king became a mere figurehead; China is annexed by regional warlords"
+    },
+    {
+        "start": {
+            "year": -470
+        },
+        "event": "Birth of Socrates"
+    },
+    {
+        "start": {
+            "year": -465
+        },
+        "event": "Murder of Xerxes"
+    },
+    {
+        "start": {
+            "year": -458
+        },
+        "event": "The Oresteia by Aeschylus, the only surviving trilogy of ancient Greek plays, is performed"
+    },
+    {
+        "start": {
+            "year": -449
+        },
+        "event": "The Greco-Persian Wars end"
+    },
+    {
+        "start": {
+            "year": -447
+        },
+        "event": "Building of the Parthenon at Athens started"
+    },
+    {
+        "start": {
+            "year": -432
+        },
+        "event": "Construction of the Parthenon is completed"
+    },
+    {
+        "start": {
+            "year": -431
+        },
+        "event": "Beginning of the Peloponnesian war between the Greek city-states"
+    },
+    {
+        "start": {
+            "year": -429
+        },
+        "event": "Sophocles's play Oedipus the King is first performed"
+    },
+    {
+        "start": {
+            "year": -427
+        },
+        "event": "Birth of Plato"
+    },
+    {
+        "start": {
+            "year": -424
+        },
+        "event": "Nanda dynasty comes to power"
+    },
+    {
+        "start": {
+            "year": -404
+        },
+        "event": "End of the Peloponnesian War"
+    },
+    {
+        "start": {
+            "year": -400
+        },
+        "event": "Zapotec culture flourishes around city of Monte Albán"
+    },
+    {
+        "start": {
+            "year": -399
+        },
+        "event": "Death of Socrates"
+    },
+    {
+        "start": {
+            "year": -384
+        },
+        "event": "Birth of Aristotle"
+    },
+    {
+        "start": {
+            "year": -331
+        },
+        "event": "Alexander the Great defeats Darius III of Persia in the Battle of Gaugamela, completing his conquest of Persia"
+    },
+    {
+        "start": {
+            "year": -326
+        },
+        "event": "Alexander the Great defeats Indian king Porus in the Battle of the Hydaspes River"
+    },
+    {
+        "start": {
+            "year": -323
+        },
+        "event": "Death of Alexander the Great at Babylon"
+    },
+    {
+        "start": {
+            "year": -321
+        },
+        "event": "Chandragupta Maurya overthrows the Nanda Dynasty of Magadha"
+    },
+    {
+        "start": {
+            "year": -300
+        },
+        "event": "Construction of the Great Pyramid of Cholula, the world's largest pyramid by volume, begins in Cholula, Puebla, Mexico"
+    },
+    {
+        "start": {
+            "year": -273
+        },
+        "event": "Ashoka the Great becomes the emperor of the Mauryan Empire"
+    },
+    {
+        "start": {
+            "year": -261
+        },
+        "event": "Kalinga war"
+    },
+    {
+        "start": {
+            "year": -257
+        },
+        "event": "Thục Dynasty takes over Việt Nam (then Kingdom of Âu Lạc)"
+    },
+    {
+        "start": {
+            "year": -250
+        },
+        "event": "Rise of Parthia (Ashkâniân), the second native dynasty of ancient Persia"
+    },
+    {
+        "start": {
+            "year": -232
+        },
+        "event": "Death of Emperor Ashoka the Great; Decline of the Mauryan Empire"
+    },
+    {
+        "start": {
+            "year": -230
+        },
+        "event": "Emergence of Satavahanas in South India"
+    },
+    {
+        "start": {
+            "year": -221
+        },
+        "event": "Qin Shi Huang unifies China, end of Warring States period; Construction of the Great Wall by the Qin Dynasty begins"
+    },
+    {
+        "start": {
+            "year": -207
+        },
+        "event": "Kingdom of Nan Yueh extends from Canton to North Việt Nam "
+    },
+    {
+        "start": {
+            "year": -206
+        },
+        "event": "Han Dynasty established in China, after the death of Qin Shi Huang; China in this period officially becomes a Confucian state and opens trading connections with the West, i.e. the Silk Road"
+    },
+    {
+        "start": {
+            "year": -202
+        },
+        "event": "Scipio Africanus defeats Hannibal at Battle of Zama"
+    },
+    {
+        "start": {
+            "year": -200
+        },
+        "event": "El Mirador, largest early Maya city, flourishes"
+    },
+    {
+        "start": {
+            "year": -200
+        },
+        "event": "Paper is invented in China"
+    },
+    {
+        "start": {
+            "year": -200
+        },
+        "event": "Chera dynasty in South India"
+    },
+    {
+        "start": {
+            "year": -185
+        },
+        "event": "Shunga Empire founded"
+    },
+    {
+        "start": {
+            "year": -149
+        },
+        "event": "Third Punic War between Rome and Carthage. War ends with the complete destruction of Carthage, allowing Rome to conquer modern day Tunisia and Libya"
+    },
+    {
+        "start": {
+            "year": -146
+        },
+        "event": "Roman conquest of Greece, see Roman Greece"
+    },
+    {
+        "start": {
+            "year": -129
+        },
+        "event": "Roman conquest of Turkey"
+    },
+    {
+        "start": {
+            "year": -121
+        },
+        "event": "Roman armies enter Gaul for the first time"
+    },
+    {
+        "start": {
+            "year": -111
+        },
+        "event": "First Chinese domination of Việt Nam in the form of the Nanyue Kingdom"
+    },
+    {
+        "start": {
+            "year": -100
+        },
+        "event": "Chola dynasty rises in prominence"
+    },
+    {
+        "start": {
+            "year": -80
+        },
+        "event": "The city of Florence is founded"
+    },
+    {
+        "start": {
+            "year": -49
+        },
+        "event": "Roman Civil War between Julius Caesar and Pompey the Great"
+    },
+    {
+        "start": {
+            "year": -44
+        },
+        "event": "Julius Caesar murdered by Marcus Brutus and others; End of Roman Republic; beginning of Roman Empire"
+    },
+    {
+        "start": {
+            "year": -40
+        },
+        "event": "Roman conquest of Egypt"
+    },
+    {
+        "start": {
+            "year": -27
+        },
+        "event": "Formation of Roman Empire: Octavius is given titles of Princeps and Augustus by Roman Senate - beginning of Pax Romana"
+    },
+    {
+        "start": {
+            "year": -18
+        },
+        "event": "Three Kingdoms period begins in Korea. The temple of Jerusalem is reconstructed"
+    },
+    {
+        "start": {
+            "year": -6
+        },
+        "event": "Earliest theorized date for birth of Jesus of Nazareth. Roman succession: Gaius Caesar and Lucius Caesar groomed for the throne"
+    },
+    {
+        "start": {
+            "year": -4
+        },
+        "event": "Widely accepted date (Ussher) for birth of Jesus Christ"
+    },
+    {
+        "start": {
+            "year": 9
+        },
+        "event": "Battle of the Teutoburg Forest, the Imperial Roman Army's bloodiest defeat"
+    },
+    {
+        "start": {
+            "year": 14
+        },
+        "event": "Death of Emperor Augustus (Octavian), ascension of his adopted son Tiberius to the throne"
+    },
+    {
+        "start": {
+            "year": 30
+        },
+        "event": "Crucifixion of Jesus Christ, exact date unknown"
+    },
+    {
+        "start": {
+            "year": 37
+        },
+        "event": "Death of Emperor Tiberius, ascension of his nephew Caligula to the throne"
+    },
+    {
+        "start": {
+            "year": 40
+        },
+        "event": "Rome conquers Morocco"
+    },
+    {
+        "start": {
+            "year": 41
+        },
+        "event": "Emperor Caligula is assassinated by the Roman senate. His uncle Claudius succeeds him"
+    },
+    {
+        "start": {
+            "year": 43
+        },
+        "event": "Rome enters Britain for the first time"
+    },
+    {
+        "start": {
+            "year": 54
+        },
+        "event": "Emperor Claudius dies and is succeeded by his grand nephew Nero"
+    },
+    {
+        "start": {
+            "year": 68
+        },
+        "event": "Emperor Nero commits suicide"
+    },
+    {
+        "start": {
+            "year": 70
+        },
+        "event": "Destruction of Jerusalem by the armies of Titus"
+    },
+    {
+        "start": {
+            "year": 79
+        },
+        "event": "Destruction of Pompeii by the volcano Vesuvius"
+    },
+    {
+        "start": {
+            "year": 106
+        },
+        "event": "Roman Empire at largest extent under Emperor Trajan"
+    },
+    {
+        "start": {
+            "year": 117
+        },
+        "event": "Trajan dies of natural causes. His adopted son Hadrian succeeds him. Hadrian pulls out of Iraq and Armenia"
+    },
+    {
+        "start": {
+            "year": 126
+        },
+        "event": "Hadrian completes the Pantheon in Rome"
+    },
+    {
+        "start": {
+            "year": 138
+        },
+        "event": "Hadrian dies of natural causes. His adopted son Antoninus Pius succeeds him"
+    },
+    {
+        "start": {
+            "year": 161
+        },
+        "event": "Death of Antoninus Pius. His rule was the only one in which Rome did not fight in a war"
+    },
+    {
+        "start": {
+            "year": 192
+        },
+        "event": "Kingdom of Champa in Central Việt Nam"
+    },
+    {
+        "start": {
+            "year": 200
+        },
+        "event": "The Buddhist Srivijaya Empire established in Maritime Southeast Asia"
+    },
+    {
+        "start": {
+            "year": 220
+        },
+        "event": "Three Kingdoms period begins in China after the fall of Han Dynasty"
+    },
+    {
+        "start": {
+            "year": 226
+        },
+        "event": "Fall of the Parthian Empire and Rise of the Sassanian Empire"
+    },
+    {
+        "start": {
+            "year": 238
+        },
+        "event": "Defeat of Gordian III (238–244), Philip the Arab (244–249), and Valerian (253–260), by Shapur I of Persia, (Valerian was captured by the Persians)"
+    },
+    {
+        "start": {
+            "year": 280
+        },
+        "event": "Emperor Wu established Jin Dynasty providing a temporary unity of China after the devastating Three Kingdoms period"
+    },
+    {
+        "start": {
+            "year": 285
+        },
+        "event": "Diocletian becomes emperor of Rome and splits the Roman Empire into Eastern and Western Empires"
+    },
+    {
+        "start": {
+            "year": 285
+        },
+        "event": "Diocletian begins a large-scale persecution of Christians"
+    },
+    {
+        "start": {
+            "year": 292
+        },
+        "event": "The capital of the Roman empire is officially moved from Rome to Mediolanum (modern day Milan)"
+    },
+    {
+        "start": {
+            "year": 301
+        },
+        "event": "Diocletian's edict on prices"
+    },
+    {
+        "start": {
+            "year": 313
+        },
+        "event": "Edict of Milan declared that the Roman Empire would tolerate all forms of religious worship"
+    },
+    {
+        "start": {
+            "year": 325
+        },
+        "event": "Constantine I organizes the First Council of Nicaea"
+    },
+    {
+        "start": {
+            "year": 330
+        },
+        "event": "Constantinople is officially named and becomes the capital of the eastern Roman Empire"
+    },
+    {
+        "start": {
+            "year": 335
+        },
+        "event": "Samudragupta becomes the emperor of the Gupta empire"
+    },
+    {
+        "start": {
+            "year": 337
+        },
+        "event": "Emperor Constantine I dies, leaving his sons Constantius II, Constans I, and Constantine II as the emperors of the Roman empire"
+    },
+    {
+        "start": {
+            "year": 350
+        },
+        "event": "Constantius II is left sole emperor with the death of his two brothers"
+    },
+    {
+        "start": {
+            "year": 354
+        },
+        "event": "Birth of Augustine of Hippo"
+    },
+    {
+        "start": {
+            "year": 361
+        },
+        "event": "Constantius II dies, his cousin Julian succeeds him"
+    },
+    {
+        "start": {
+            "year": 378
+        },
+        "event": "Battle of Adrianople, Roman army is defeated by the Germanic tribes"
+    },
+    {
+        "start": {
+            "year": 380
+        },
+        "event": "Roman Emperor Theodosius I declares the Arian faith of Christianity heretical"
+    },
+    {
+        "start": {
+            "year": 395
+        },
+        "event": "Theodosius I outlaws all religions other than Catholic Christianity"
+    },
+    {
+        "start": {
+            "year": 406
+        },
+        "event": "Romans are expelled from Britain"
+    },
+    {
+        "start": {
+            "year": 407
+        },
+        "event": "Visigoths and other Germanic tribes cross into Roman-Gaul for the first time"
+    },
+    {
+        "start": {
+            "year": 410
+        },
+        "event": "Visigoths sacks Rome for the first time since 390 BC"
+    },
+    {
+        "start": {
+            "year": 415
+        },
+        "event": "Germanic tribes enter Spain"
+    },
+    {
+        "start": {
+            "year": 429
+        },
+        "event": "Vandals enter North Africa from Spain for the first time"
+    },
+    {
+        "start": {
+            "year": 439
+        },
+        "event": "Vandals have conquered the land stretching from Morocco to Tunisia by this time"
+    },
+    {
+        "start": {
+            "year": 455
+        },
+        "event": "Vandals sack Rome, capture Sicily and Sardinia"
+    },
+    {
+        "start": {
+            "year": 455
+        },
+        "event": "Skandagupta repels an Indo-Hephthalite attack on India"
+    },
+    {
+        "start": {
+            "year": 476
+        },
+        "event": "Romulus Augustus, last Western Roman Emperor is forced to abdicate by Odoacer, a chieftain of the Germanic Heruli"
+    }
+]

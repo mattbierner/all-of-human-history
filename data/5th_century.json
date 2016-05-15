@@ -1,0 +1,32 @@
+[
+    {
+        "start": {
+            "year": 405
+        },
+        "event": "The Christian Gospel is translated into Latin"
+    },
+    {
+        "start": {
+            "year": 410
+        },
+        "event": "Rome is sacked by Alaric, King of the Visigoths"
+    },
+    {
+        "start": {
+            "year": 431
+        },
+        "event": "Council of Ephesus"
+    },
+    {
+        "start": {
+            "year": 455
+        },
+        "event": "Rome is sacked by Genseric, King of the Vandals"
+    },
+    {
+        "start": {
+            "year": 476
+        },
+        "event": "Odoacer deposes the last Roman Emperor Romulus Augustulus"
+    }
+]

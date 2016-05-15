@@ -1,0 +1,122 @@
+[
+    {
+        "start": {
+            "year": 500
+        },
+        "event": "Battle of Mons Badonicus"
+    },
+    {
+        "start": {
+            "year": 507
+        },
+        "event": "The Franks under Clovis defeat the Visigoths in the Battle of Vouillé"
+    },
+    {
+        "start": {
+            "year": 524
+        },
+        "event": "Boethius writes his Consolation of Philosophy"
+    },
+    {
+        "start": {
+            "year": 525
+        },
+        "event": "Dionysius Exiguus publishes the Dionysius Exiguus' Easter table"
+    },
+    {
+        "start": {
+            "year": 527
+        },
+        "event": "Justinian I becomes Eastern Roman Emperor"
+    },
+    {
+        "start": {
+            "year": 529
+        },
+        "end": {
+            "year": 534
+        },
+        "event": "Justinian I publishes the Code of Civil Law"
+    },
+    {
+        "start": {
+            "year": 529
+        },
+        "event": "Benedict of Nursia founds monastery at Monte Cassino"
+    },
+    {
+        "start": {
+            "year": 532
+        },
+        "event": "Nika Riots in Constantinople. Nearly half the city being burned or destroyed and tens of thousands of people killed"
+    },
+    {
+        "start": {
+            "year": 533
+        },
+        "event": "Byzantines, under Belisarius, retake North Africa from the Vandals"
+    },
+    {
+        "start": {
+            "year": 535
+        },
+        "end": {
+            "year": 554
+        },
+        "event": "Gothic War in Italy as a part of Justinian's Reconquest"
+    },
+    {
+        "start": {
+            "year": 563
+        },
+        "event": "Saint Columba founds mission in Iona"
+    },
+    {
+        "start": {
+            "year": 568
+        },
+        "event": "The Kingdom of the Lombards is founded in Italy"
+    },
+    {
+        "start": {
+            "year": 570
+        },
+        "event": "Muhammad is born"
+    },
+    {
+        "start": {
+            "year": 577
+        },
+        "event": "The West Saxons continue their advance at the Battle of Deorham"
+    },
+    {
+        "start": {
+            "year": 581
+        },
+        "end": {
+            "year": 618
+        },
+        "event": "Sui Dynasty in China"
+    },
+    {
+        "start": {
+            "year": 590
+        },
+        "event": "Gregory the Great becomes Pope"
+    },
+    {
+        "start": {
+            "year": 597
+        },
+        "event": "Augustine arrives in Kent"
+    },
+    {
+        "start": {
+            "year": 598
+        },
+        "end": {
+            "year": 668
+        },
+        "event": "Massive Chinese (Sui and Tang) invasions against Korean Goguryeo"
+    }
+]
