@@ -5,6 +5,7 @@ $ npm install all-of-human-history
 This Node package contains date and blurbs for major historical events covering about the last 5000 years of human history, from the late bronze age to 2015.
 
 ```js
+// Get array of all events
 const history = require('all-of-human-history');
 
 history.filter(event => event.start.year > 1720 && event.start.year < 1723)
